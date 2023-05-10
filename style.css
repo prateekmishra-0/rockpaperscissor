@@ -64,8 +64,11 @@ header>h1{
 }
 
 .choices{
-  margin: 50px;
+  margin: auto;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .choice{
